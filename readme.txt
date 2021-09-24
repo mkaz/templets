@@ -1,4 +1,4 @@
-=== Code Syntax Block ===
+=== Templets ===
 Contributors: mkaz
 Tags: block patterns, patterns
 Requires at least: 5.8
